@@ -1,0 +1,27 @@
+@import "_normalize.scss";
+@import "_variables.scss";
+/*
+@import "header/_main.scss";
+@import "slider/_main.scss";
+@import "features/_main.scss";
+@import "subscribe/_main.scss";
+@import "footer/_main.scss";
+*/
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  transition: all 0.3s ease-in;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body, html {
+  min-height: 100%;
+}
+

@@ -1,0 +1,31 @@
+{
+  "name": "creative-design-agency",
+  "version": "1.0.0",
+  "description": "\"# creative-design-agency\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMezhenskyi/creative-design-agency.git"
+  },
+  "author": "Alexander Mezhenskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMezhenskyi/creative-design-agency/issues"
+  },
+  "homepage": "https://github.com/AlexanderMezhenskyi/creative-design-agency#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.2.5",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
